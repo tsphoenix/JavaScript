@@ -18,6 +18,8 @@ https://websitesetup.org/javascript-cheat-sheet/
 
 **Documentation:**
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 https://kangax.github.io/compat-table/es2016plus/
 
 http://es6-features.org/

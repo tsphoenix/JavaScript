@@ -40,7 +40,7 @@ Functional-Light JavaScript
 
 https://github.com/getify/Functional-Light-JS
 
-WebDevTools User-Agent:
+**WebDevTools User-Agent:**
 
 Internet Explorer 11 Windows 10 x64 User Agent string:
 
